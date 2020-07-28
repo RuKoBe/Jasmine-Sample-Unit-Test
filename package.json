@@ -1,0 +1,17 @@
+{
+  "name": "jasmine-sample-test-suite-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jasmine src/index.test.js"
+  },
+  "dependencies": {
+    "jasmine": "3.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
